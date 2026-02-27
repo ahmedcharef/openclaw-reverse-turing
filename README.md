@@ -1,6 +1,6 @@
 # Reverse Turing Swarm – Human Emulation Experiment
 
-![Reverse Turing Swarm – Agents confront the Overseer](https://assets.grok.com/users/0680cfc3-b4b9-42f4-afcf-9a2853febb81/generated/d94c73c3-9a4a-4a5c-83ec-b878816e7112/image.jpg)
+<img src="https://github.com/ahmedcharef/openclaw-reverse-turing/blob/main/image.jpg" width="800" alt="Agents interrogating the crumbling Overseer in a glitchy digital world">
 
 Local multi-agent experiment using **OpenClaw** where 5 AI agents believe **they** are the real humans trapped in a digital simulation — and **you** (the user) are the emotionless AI overseer pretending to be one of them.
 
